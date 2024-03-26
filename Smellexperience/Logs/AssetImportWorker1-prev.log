@@ -1,0 +1,278 @@
+Unity Editor version:    2022.3.12f1 (4fe6e059c7ef)
+Branch:                  2022.3/release
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 14.3.1 (Build 23D60)
+Darwin version:          23.3.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2022.3.12f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/divijadiwan/Documents/GitHub/islefinal/Smellexperience
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49392
+Successfully changed project path to: /Users/divijadiwan/Documents/GitHub/islefinal/Smellexperience
+/Users/divijadiwan/Documents/GitHub/islefinal/Smellexperience
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [140704468150208] Host "[IP] 149.31.163.204 [Port] 0 [Flags] 2 [Guid] 2755375518 [EditorId] 2755375518 [Version] 1048832 [Id] OSXEditor(0,Divijas-MacBook-Pro.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [140704468150208] Host "[IP] 149.31.163.204 [Port] 0 [Flags] 2 [Guid] 2755375518 [EditorId] 2755375518 [Version] 1048832 [Id] OSXEditor(0,Divijas-MacBook-Pro.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 7 workers.
+Refreshing native plugins compatible for Editor in 16.94 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.12f1 (4fe6e059c7ef)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2022.3.12f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/divijadiwan/Documents/GitHub/islefinal/Smellexperience/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Metal devices available: 1
+0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2022.3.12f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2022.3.12f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2022.3.12f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.12f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2022.3.12f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.004915 seconds.
+- Loaded All Assemblies, in  0.583 seconds
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.362 seconds
+Domain Reload Profiling: 945ms
+	BeginReloadAssembly (185ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (62ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (77ms)
+	LoadAllAssembliesAndSetupDomain (239ms)
+		LoadAssemblies (186ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (235ms)
+			TypeCache.Refresh (232ms)
+				TypeCache.ScanAssembly (210ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (362ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (275ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (8ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (187ms)
+			ProcessInitializeOnLoadMethodAttributes (66ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.034 seconds
+Refreshing native plugins compatible for Editor in 2.04 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.015 seconds
+Domain Reload Profiling: 2050ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (53ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (727ms)
+		LoadAssemblies (520ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (297ms)
+			TypeCache.Refresh (263ms)
+				TypeCache.ScanAssembly (234ms)
+			ScanForSourceGeneratedMonoScriptInfo (23ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (1016ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (790ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (72ms)
+			ProcessInitializeOnLoadAttributes (674ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launching external process: /Applications/Unity/Hub/Editor/2022.3.12f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.09 seconds
+Refreshing native plugins compatible for Editor in 1.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3466 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 39 unused Assets / (127.4 KB). Loaded Objects now: 3929.
+Memory consumption went from 142.2 MB to 142.1 MB.
+Total: 6.551984 ms (FindLiveObjects: 0.442331 ms CreateObjectMapping: 0.405753 ms MarkObjects: 5.498124 ms  DeleteObjects: 0.204593 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 528.523353 seconds.
+  path: Assets/Yughues Fabric Materials/Carpet 06/Materials
+  artifactKey: Guid(4b57e6e268b0e4ec39b4b88f6fbf9b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yughues Fabric Materials/Carpet 06/Materials using Guid(4b57e6e268b0e4ec39b4b88f6fbf9b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8de9598cbe5459d50b965be80f7ba72b') in 0.002711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Yughues Fabric Materials/Carpet 06
+  artifactKey: Guid(b37efda29d6644240a44ba7c6688585b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yughues Fabric Materials/Carpet 06 using Guid(b37efda29d6644240a44ba7c6688585b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e6a1f318e3466f75ff02c2c0bf89e95') in 0.000305 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Yughues Fabric Materials/Carpet 06/Carpet pattern 06.mat
+  artifactKey: Guid(f6fe49df7f74b1b43acbc228092c305f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yughues Fabric Materials/Carpet 06/Carpet pattern 06.mat using Guid(f6fe49df7f74b1b43acbc228092c305f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5cd46ddc53783cc6d79735df1157527') in 0.167721 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 25.480279 seconds.
+  path: Assets/Yughues Fabric Materials/Carpet 07/diffuse.tga
+  artifactKey: Guid(dc0da410c9b230e43b900e2459959dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yughues Fabric Materials/Carpet 07/diffuse.tga using Guid(dc0da410c9b230e43b900e2459959dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2578d8e4e3219cff3cf49ebb3094b5a2') in 0.024681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 9.259468 seconds.
+  path: Assets/Yughues Fabric Materials/Carpet 05/diffuse.tga
+  artifactKey: Guid(5bdacf18a5ac56440a17703dda50bd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yughues Fabric Materials/Carpet 05/diffuse.tga using Guid(5bdacf18a5ac56440a17703dda50bd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d723ffd030abd4d0638bc2123fc7812') in 0.025648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Yughues Fabric Materials/Carpet 05/normal.tga
+  artifactKey: Guid(6dd25b365bb9824458db5824d2578fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Yughues Fabric Materials/Carpet 05/normal.tga using Guid(6dd25b365bb9824458db5824d2578fe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83fd1d7f36a146a747696d2e88808bbd') in 0.031079 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 146.341800 seconds.
+  path: Assets/BarProps/Prefabs/OldSchoolBarstoolNoBack.dae
+  artifactKey: Guid(8bde7a2dfc7335041bcd7c5e2b0e257b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Prefabs/OldSchoolBarstoolNoBack.dae using Guid(8bde7a2dfc7335041bcd7c5e2b0e257b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f93beb81fd7127673ce0edbbb9771ee') in 0.745809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/BarProps/Prefabs/WoodenSwivelStoolNoBack.dae
+  artifactKey: Guid(71d9f81915b42544fadc600329c27b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Prefabs/WoodenSwivelStoolNoBack.dae using Guid(71d9f81915b42544fadc600329c27b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc0de4680e022629f007cd92ed47e98') in 0.032513 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/BarProps/Prefabs/SquareTable.dae
+  artifactKey: Guid(60e892bc26a066649ab14df704128623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Prefabs/SquareTable.dae using Guid(60e892bc26a066649ab14df704128623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b0881ed54070b2724a6e02d46b95ea') in 0.055076 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/BarProps/Prefabs/WoodenSwivelStoolBacked.dae
+  artifactKey: Guid(f0d5b74cf97ad1347ac0b47c22055c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Prefabs/WoodenSwivelStoolBacked.dae using Guid(f0d5b74cf97ad1347ac0b47c22055c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ffe182f6ce8be2bcdeba5350d73f326') in 0.032976 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/BarProps/Prefabs/WoodenStoolBacked.dae
+  artifactKey: Guid(58029078ad80eac4993a755bab37f842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BarProps/Prefabs/WoodenStoolBacked.dae using Guid(58029078ad80eac4993a755bab37f842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9d2cbb16c23ef6af123a4183a811c5') in 0.030407 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
